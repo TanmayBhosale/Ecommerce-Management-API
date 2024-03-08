@@ -113,7 +113,7 @@ None
 ```json
 {
     "name": string,
-    "password": "admin"
+    "password": string
 }
 ```
 **Response**
