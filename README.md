@@ -88,7 +88,7 @@ Code: `201`
     "data": {
         "id": "40683e92-e574-4393-b99b-9970bd57bd4b",
         "name": "Tanmay",
-        "email": "tanmaybhosale24@gmail.com",
+        "email": "tanmaybhosale1234@gmail.com",
         "password": "admin",
         "role": {
             "id": "7ddf5794-df3c-4fe4-a882-268937f700d1",
@@ -125,7 +125,7 @@ Code: `200`
     "data": {
         "id": "a88eebf7-5a99-42f0-93bd-53d4fde10a8b",
         "name": "Tanmay",
-        "email": "tanmaybhosale3000@gmail.com",
+        "email": "tanmaybhosale1234@gmail.com",
         "password": "admin",
         "role": {
             "id": "0fdba05c-50c7-43a8-a13d-25728ec9d7a3",
