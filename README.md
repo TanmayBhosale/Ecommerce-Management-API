@@ -44,7 +44,7 @@ DATABASE_URL=
 TOKEN_SECRET=
 ```
 
-Create a database in any relational DB system locally and copy the DB URL and paste it against `DATABASE_URL`.
+Create a database in any relational DB system locally (postgreSQL prefered) and copy the DB URL and paste it against `DATABASE_URL`.
 
 `TOKEN_SECRET` can be anything. It is used for generating auth tokens.
 
