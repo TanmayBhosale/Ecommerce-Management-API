@@ -1,6 +1,6 @@
-# Grocery Booking API
+# Ecommerce Management API
 
-This is a simple api which can be used by a grocery shop. It has the following roles:
+This is a simple api which can be used by a Ecommerce stores. It has the following roles:
 
 - `Admin`
 - `User`
@@ -8,15 +8,15 @@ This is a simple api which can be used by a grocery shop. It has the following r
 This API has the following functionalities
 
 - `Admin Responsibilities`:
-   - Add new grocery items to the system
-   - View existing grocery items
-   - Remove grocery items from the system
-   - Update details (e.g., name, price) of existing grocery items
-   - Manage inventory levels of grocery items
+   - Add new products to the system
+   - View existing products
+   - Remove products from the system
+   - Update details (e.g., name, price) of existing products
+   - Manage inventory levels of products
 
 - `User Responsibilities`:
-   - View the list of available grocery items
-   - Ability to book multiple grocery items in a single order
+   - View the list of available products
+   - Ability to add multiple products in a single order
 
 
 ## Steps to setup and run the project locally
